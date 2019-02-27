@@ -1,0 +1,19 @@
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\WEBAPI Purchase Order Processing System.dll.config
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\WEBAPI Purchase Order Processing System.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\WEBAPI Purchase Order Processing System.pdb
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\EntityFramework.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\EntityFramework.SqlServer.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\Newtonsoft.Json.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\System.Net.Http.Formatting.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\System.Web.Http.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\System.Web.Http.WebHost.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\EntityFramework.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\EntityFramework.SqlServer.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\Newtonsoft.Json.pdb
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\Newtonsoft.Json.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\System.Net.Http.Formatting.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\System.Web.Http.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\bin\System.Web.Http.WebHost.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\obj\Debug\WEBAPI Purchase Order Processing System.csprojResolveAssemblyReference.cache
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\obj\Debug\WEBAPI Purchase Order Processing System.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\obj\Debug\WEBAPI Purchase Order Processing System.pdb

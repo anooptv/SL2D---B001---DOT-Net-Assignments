@@ -1,0 +1,19 @@
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\466736 WEBAPI Purchase Order Processing System.dll.config
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\466736 WEBAPI Purchase Order Processing System.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\466736 WEBAPI Purchase Order Processing System.pdb
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\Newtonsoft.Json.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\System.Net.Http.Formatting.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\System.Web.Http.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\System.Web.Http.WebHost.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\Newtonsoft.Json.pdb
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\Newtonsoft.Json.xml
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\System.Net.Http.Formatting.xml
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\System.Web.Http.xml
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\System.Web.Http.WebHost.xml
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\obj\Debug\466736 WEBAPI Purchase Order Processing System.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\obj\Debug\466736 WEBAPI Purchase Order Processing System.pdb
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\EntityFramework.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\EntityFramework.SqlServer.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\EntityFramework.xml
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\bin\EntityFramework.SqlServer.xml
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\466736 WEBAPI Purchase Order Processing System\obj\Debug\466736 WEBAPI Purchase Order Processing System.csprojResolveAssemblyReference.cache

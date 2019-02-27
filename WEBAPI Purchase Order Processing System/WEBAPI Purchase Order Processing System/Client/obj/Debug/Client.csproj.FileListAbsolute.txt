@@ -1,0 +1,48 @@
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\Client.dll.config
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\Client.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\Client.pdb
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Web.Helpers.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Web.Mvc.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Web.Razor.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Web.WebPages.Deployment.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Web.WebPages.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Web.WebPages.Razor.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Web.Helpers.xml
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Web.Mvc.xml
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Web.Razor.xml
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Web.WebPages.xml
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Web.WebPages.Deployment.xml
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Web.WebPages.Razor.xml
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\obj\Debug\Client.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\obj\Debug\Client.pdb
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\Newtonsoft.Json.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Net.Http.Formatting.dll
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\Newtonsoft.Json.pdb
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\Newtonsoft.Json.xml
+C:\Assignments\466736 WEBAPI Purchase Order Processing System\Client\bin\System.Net.Http.Formatting.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\Client.dll.config
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\Client.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\Client.pdb
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\Newtonsoft.Json.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Net.Http.Formatting.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Web.Helpers.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Web.Mvc.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Web.Razor.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Web.WebPages.Deployment.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Web.WebPages.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Web.WebPages.Razor.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\Newtonsoft.Json.pdb
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\Newtonsoft.Json.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Net.Http.Formatting.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Web.Helpers.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Web.Mvc.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Web.Razor.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Web.WebPages.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Web.WebPages.Deployment.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\bin\System.Web.WebPages.Razor.xml
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\obj\Debug\Client.dll
+C:\Anoop\GIT\WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System\Client\obj\Debug\Client.pdb

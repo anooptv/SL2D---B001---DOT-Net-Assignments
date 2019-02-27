@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBAPI Purchase Order Processing System", "WEBAPI Purchase Order Processing System\WEBAPI Purchase Order Processing System.csproj", "{D8B8671B-815D-41E7-A693-A901FFB32579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{F99DF68D-C644-487E-B012-5FF5350EB15B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8B8671B-815D-41E7-A693-A901FFB32579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B8671B-815D-41E7-A693-A901FFB32579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B8671B-815D-41E7-A693-A901FFB32579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B8671B-815D-41E7-A693-A901FFB32579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99DF68D-C644-487E-B012-5FF5350EB15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99DF68D-C644-487E-B012-5FF5350EB15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99DF68D-C644-487E-B012-5FF5350EB15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99DF68D-C644-487E-B012-5FF5350EB15B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

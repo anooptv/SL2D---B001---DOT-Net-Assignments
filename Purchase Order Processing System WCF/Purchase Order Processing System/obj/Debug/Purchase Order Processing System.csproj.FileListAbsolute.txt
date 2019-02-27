@@ -1,0 +1,19 @@
+C:\Anoop\GIT\466736 Purchase Order Processing System WCF\466736 Purchase Order Processing System\bin\Purchase Order Processing System.dll.config
+C:\Anoop\GIT\466736 Purchase Order Processing System WCF\466736 Purchase Order Processing System\bin\Purchase Order Processing System.dll
+C:\Anoop\GIT\466736 Purchase Order Processing System WCF\466736 Purchase Order Processing System\bin\Purchase Order Processing System.pdb
+C:\Anoop\GIT\466736 Purchase Order Processing System WCF\466736 Purchase Order Processing System\bin\EntityFramework.dll
+C:\Anoop\GIT\466736 Purchase Order Processing System WCF\466736 Purchase Order Processing System\bin\EntityFramework.SqlServer.dll
+C:\Anoop\GIT\466736 Purchase Order Processing System WCF\466736 Purchase Order Processing System\bin\EntityFramework.xml
+C:\Anoop\GIT\466736 Purchase Order Processing System WCF\466736 Purchase Order Processing System\bin\EntityFramework.SqlServer.xml
+C:\Anoop\GIT\466736 Purchase Order Processing System WCF\466736 Purchase Order Processing System\obj\Debug\Purchase Order Processing System.dll
+C:\Anoop\GIT\466736 Purchase Order Processing System WCF\466736 Purchase Order Processing System\obj\Debug\Purchase Order Processing System.pdb
+C:\Anoop\GIT\Purchase Order Processing System WCF\Purchase Order Processing System\bin\Purchase Order Processing System.dll.config
+C:\Anoop\GIT\Purchase Order Processing System WCF\Purchase Order Processing System\bin\Purchase Order Processing System.dll
+C:\Anoop\GIT\Purchase Order Processing System WCF\Purchase Order Processing System\bin\Purchase Order Processing System.pdb
+C:\Anoop\GIT\Purchase Order Processing System WCF\Purchase Order Processing System\bin\EntityFramework.dll
+C:\Anoop\GIT\Purchase Order Processing System WCF\Purchase Order Processing System\bin\EntityFramework.SqlServer.dll
+C:\Anoop\GIT\Purchase Order Processing System WCF\Purchase Order Processing System\bin\EntityFramework.xml
+C:\Anoop\GIT\Purchase Order Processing System WCF\Purchase Order Processing System\bin\EntityFramework.SqlServer.xml
+C:\Anoop\GIT\Purchase Order Processing System WCF\Purchase Order Processing System\obj\Debug\Purchase Order Processing System.csprojResolveAssemblyReference.cache
+C:\Anoop\GIT\Purchase Order Processing System WCF\Purchase Order Processing System\obj\Debug\Purchase Order Processing System.dll
+C:\Anoop\GIT\Purchase Order Processing System WCF\Purchase Order Processing System\obj\Debug\Purchase Order Processing System.pdb
